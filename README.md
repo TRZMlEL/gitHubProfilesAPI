@@ -32,3 +32,4 @@ Then click on the localhost link.
 - Vite
 - Vue 3
 - Tailwindcss
+- Cypress
