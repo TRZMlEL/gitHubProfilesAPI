@@ -17,13 +17,28 @@ Using the GitHub API, I created a page to check users of this service. I drew in
 To run the code, you must have node.js installed.
 Then in the terminal in the project folder, you need to type 
 
- `npm install `
+ `npm install`
  
 and then 
 
 `npm run dev`
 
 Then click on the localhost link.
+
+### How to run the test
+If u dont install packages type
+
+`npm install`
+
+Go to tests folder
+
+ `cd tests`
+
+and than
+
+ `npm run cypress:open`
+
+Go to E2E test and run in your browser test
 
 ## Used tools
 
